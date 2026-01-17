@@ -1,8 +1,16 @@
-# eleventy-base-blog v9
+# Newman's blog based on eleventy-base-blog v9
 
-A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v3.0 release](https://github.com/11ty/eleventy/releases/tag/v3.0.0)).
+A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v3.0 release](https://github.com/11ty/eleventy/releases/tag/v3.0.0)).  This [version of the eleventy-base-blog](https://github.com/11ty/eleventy-base-blog/releases/tag/v9.0.0) is v9
 
-## Getting Started
+## Newman's Roadmap or Future Plans
+ - install [SveltiaCMS](https://sveltiacms.app) and configure
+ - make available as a template for others to use
+ - user test and refine the documentation
+
+## Contribution to this repo
+I'm looking for people to install the template and related their experience (user test).  Create an issue here or reach out on the [SveltiaCMS](https://sveltiacms.app) discord
+
+## from the OG eleventy-base-blog Getting Started
 
 * [Want a more generic/detailed getting started guide?](https://www.11ty.dev/docs/getting-started/)
 
